@@ -1,0 +1,1447 @@
+[
+    {
+        "instruction": "Verification email template (also known as double opt-in email)",
+        "input": "",
+        "output": "Hey [name], Thank you for signing up to my weekly newsletter. Before we get started, you‘ll have to confirm your email address. Click on the button below to verify your email address and you‘re officially one of us! [CTA button]"
+    },
+    {
+        "instruction": "Welcome email template",
+        "input": "",
+        "output": "Hey [name]! Welcome to [brand name]. We are happy to have you join our community. [Brand name] goal is to create [add goal and/or mission of your brand]. We promise to only send you emails [add how many times per week you will be sending an email]. All our emails will offer valuable information to help you along your journey and we may occasionally recommend a product that we believe in. We hope you enjoy your time with us and, in the meantime, feel free to check our [educational resources of your brand] Yours, [Brand name]"
+    },
+    {
+        "instruction": "Sales email template",
+        "input": "",
+        "output": "Hi [Name], I hope this email finds you well. Let me start by saying that I am a big fan of your work and it has inspired me to push myself beyond what I thought were my limits! I am reaching out because [reason]. After taking a good look at [target company] I realize that you could improve in [improvement area]. I have helped many others improve in the same area and I‘d be more than happy to talk with you about it! Would you be available for a quick call to discuss how our [product/service] could help you? Regards, [Name]"
+    },
+    {
+        "instruction": "Follow-up email template for sales emails",
+        "input": "",
+        "output": "Dear [name], You are probably very busy, I totally understand that! I‘m writing to follow up on my latest email. I still haven‘t heard back from you and was wondering if you have had the time to consider my proposal. It would be great to hear back from you. So, please let me know when you find some time. Regards, [Your name]"
+    },
+    {
+        "instruction": "Confirmation email template",
+        "input": "",
+        "output": "Hi [name], Thanks for shopping with us. We‘ve received your order and we are already getting started on it. Once everything is ready to ship and confirmed, we will let you know. You will receive tracking information and other details within the next email. To show our appreciation you will receive Free Shipping on your next order. All you have to do is enter Promo Code [enter promo code] at your next checkout! See you soon!"
+    },
+    {
+        "instruction": "Shipping confirmation email template",
+        "input": "",
+        "output": "Hi [name], Your [product name] is on its way! You can expect it to arrive at your shipping address within [timeframe]. The order number is [order number]. Track your order‘s status here [Insert tracking info]. Thank you for shopping with us!"
+    },
+    {
+        "instruction": "Invoice email template",
+        "input": "",
+        "output": "Hi [name], Here is the invoice for the [industry] services we provided for the period of [date] until [date]. You can easily make the payment by clicking here [payment link]. You can use the following link to download a copy of your invoice in CSV or PDF: [insert link] If you have any questions feel free to reach out. Thank you for your trust, [Company name]"
+    },
+    {
+        "instruction": "Abandoned cart email template",
+        "input": "",
+        "output": "Hey [name], Good news! The [product] is still in your cart, patiently waiting to become yours! Make sure you order before [date] to enjoy a [% discount] Click on the button below to visit the checkout page. [CTA to cart]"
+    },
+    {
+        "instruction": "Review email template",
+        "input": "",
+        "output": "[Name], You recently purchased [product] from [your company]. We hope that you are enjoying it as much as we do! In fact, we‘d like your honest opinion! Your insights could help many other customers decide whether our products are worth buying. Therefore, if you have 5 minutes to spare, please leave your review on [product/service]. [Link to reviews] Thank you!"
+    },
+    {
+        "instruction": "Survey email template (formal version)",
+        "input": "",
+        "output": "Hi [name], We hope that you enjoy our [product/service]! We are always looking to improve our services. As such, we would appreciate it if you could give us [amount of time] of your time to fill out the following survey. [Link or CTA to survey] Your answer will be used to help us improve our products and services. Many thanks, [Company name]"
+    },
+    {
+        "instruction": "Survey email template (informal version)",
+        "input": "",
+        "output": "Hi [name], As you know, we love to get feedback. After all, a strong relationship is based on good communication. For that reason, we would be super happy if you could fill in our survey! It will only take 5 minutes… Promise! [Link or CTA to survey] Cheers, [Company name]"
+    },
+    {
+        "instruction": "Customer satisfaction email template (open-ended questions)",
+        "input": "",
+        "output": "Hi [name], Thanks for choosing us! We are always looking to improve our [products/services]. For this reason, we‘d like to ask you a question: What do you think we could do to improve our services? Hit that reply button and let us know! Regards, [Company‘s name]"
+    },
+    {
+        "instruction": "Customer service email template for dissatisfied customers",
+        "input": "",
+        "output": "Hi [name], We are sorry to hear that you experienced [customer complaint]. Our team is already sorting out [customer issue]. In the meantime, feel free to let us know your suggestions for improvement. We will update you within the next [time frame]. We appreciate the heads up. Best, [Your name]"
+    },
+    {
+        "instruction": "Meeting invitation email template (business)",
+        "input": "",
+        "output": "Hi [name], In order to discuss [meeting‘s purpose] and to [other meeting objectives], a meeting has been scheduled. I am looking forward to seeing you at [location], at [time] on [date]. Below you will find the agenda for our meeting: [Meeting agenda] If you cannot confirm your attendance or you have any uncertainties, please let me know. Have a nice day!"
+    },
+    {
+        "instruction": "Thank you email template",
+        "input": "",
+        "output": "Hi [name], I just wanted to thank you once again for [action]. This helped me a lot with [problem]. I will keep you posted and, of course, let me know if there is anything you need help with. Sincerely, [Your name]"
+    },
+    {
+        "instruction": "Formal email template (business introduction)",
+        "input": "",
+        "output": "Hi [name], Thank you for showing interest in [company and service] My name is [name] and I’m the [role at company]. Before we get started, let me give you a brief introduction to our work. [Add your offer] We also have many satisfied customers that are willing to vouch for our work. You can read their testimonials here: [Add link] If you are interested, feel free to schedule a phone call with me to discuss your challenges further: [Meetings link]. I look forward to meeting you, [Your name]"
+    },
+    {
+        "instruction": "Job inquiry email template",
+        "input": "",
+        "output": "Hello [name], You don‘t know me but I know your company very well. In fact, your company has been my career goal ever since I was in high school. I know you like to work with the best of the best when it comes to [specific position requirements]. I am also pretty sure that, when you find such a person, you will want to, at least, have a chat about future possibilities. My name is [your name], and I am the most obsessed [job position, e.g. software developer] in [country]. My [specific skill requirement, e.g. problem-solving] abilities [add a humorous remark, e.g. may not have gotten me much popularity in high school, but it has helped me achieve A, B, C]. I am reaching out to see if you have any current openings in [department of interest]. I am sure that by working together, I can help your company to achieve [Add specific goals you intend to help the company fulfill]. I have experience in [your expertise], having graduated with a degree in [degree]. In the past [timeframe], I worked as a [job position] in [past employment company] as [job position]. I am experienced in [job responsibilities]. Let me know when you are available for a call. Regards, [Name]"
+    },
+    {
+        "instruction": "Cover letter email template",
+        "input": "",
+        "output": "Dear [name], When I saw that you were looking for [position], I became excited. For a long time, I have been following your company’s success with [their expertise]. I am reaching out to express my interest to work with your team. I am confident that my experience in [relevant experience] makes me a good fit for this position. In my previous position as [job title] for [company], I [explain your previous job responsibilities]. Some of my strongest sides are [list your qualities] and I am eager to apply this to help you with [business need]. Please find my resume attached with further details on my qualifications. Thank you for taking the time to read my application. I look forward to hearing from you soon. Regards, [Your name]"
+    },
+    {
+        "instruction": "(Post interview) Thank you email template",
+        "input": "",
+        "output": "Dear [name], Thank you for taking the time to meet me today. I found our conversation really interesting. I enjoyed learning about this opportunity and I am confident that my skills and experience will allow me to succeed in [job position] at your company. I am looking forward to hearing back from you about the next steps. Please let me know if you have any questions. Thank you again and I hope to hear back from you soon. Regards, [Your name]"
+    },
+    {
+        "instruction": "Thank you email template",
+        "input": "",
+        "output": "Dear [Customer name], Welcome to [Your company name], and thank you for subscribing to our [ specific service ] . We’re very excited to have you on board and are eager to assist in any way we can. If there’s anything we can do to improve your experience, please don’t hesitate to reach out. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Account manager introduction email template",
+        "input": "",
+        "output": "Hello [Customer name] ! Just wanted to reach out and introduce myself as your designated account manager at [Your company name] . I’m looking forward to helping you achieve your goals. I will ensure that you have a positive experience with [Your company name] , and I am here to assist you in any way I can. If you have any questions or concerns, please don’t hesitate to reach out. I’m always here to help. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Account manager transition email template",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to reach out and let you know that there has been a recent change in account management at [Your company name] , and I will be taking over as your new account manager. I am excited to work with you and ensure that your needs are being met. I understand that you may have established a relationship with your previous account manager, and I assure you that we are committed to maintaining the high level of service that you have come to expect from [Your company name] . If you have any questions or concerns, please don’t hesitate to contact me directly. Thank you for choosing [Your company name] , and I look forward to working with you in the future. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Onboarding email to new customers",
+        "input": "",
+        "output": "Hey [Customer name], Welcome to [Your company name]! We’re very excited to have you on board and are here to help you get started. To make sure you get the most out of our services, we’ve created an onboarding program that will introduce you to our features and tools. Here are a few things you can do to get started with [specific feature] : Please let us know if there’s anything else we can do to help you get started. We’re offering our full support and look forward to working with you. You can access the full onboarding program by clicking here: [onboarding program link] Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Checking in with a new customer",
+        "input": "",
+        "output": "Dear [Customer name], I just wanted to make sure you had a chance to try out our [product/service] . We’re here to offer our full support in getting you familiar with our product and make sure you have everything you need to be successful. If there’s anything else we can do to help, please get in touch via mail, phone , or text. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Questionnaire email template",
+        "input": "",
+        "output": "Dear [Customer name] , Would you kindly let us know what you think of [Your company name] ? Your feedback is incredibly important to us and will help us improve our product so that we can better serve you in the future. It only takes a few minutes to complete, and you’ll be entered into a draw for a chance to win [specific prize]: [questionnaire link] Thank you in advance for your time and feedback. We appreciate your business and your loyalty . Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Feedback appreciation email template",
+        "input": "",
+        "output": "Dear [Customer name], We highly appreciate the feedback you recently provided. Your thoughts and opinions are incredibly valuable to us, and we’re grateful for the opportunity to learn from your experience. We’re always looking for ways to improve and are constantly tweaking our product to better suit client needs, so we have forwarded your thoughts to the research and development department to ensure that changes are being implemented. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Customer review request email template",
+        "input": "",
+        "output": "Hello [Customer name], I just wanted to ask for your input about your experience with our product. Your thoughts and opinions are incredibly valuable, and we’re eager to learn from you. If you have a few minutes to spare, we would greatly appreciate it if you could leave a review by accessing the following link: [review link] . Your feedback will help us improve our product and better serve you in the future. Thank you in advance for your time. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Thanking a customer for positive feedback",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to make sure to thank you for your recent positive feedback about [Your company name]. It means a lot to us, and we’re very excited to hear that you’re enjoying our [product/service]. We do our best to make our customers happy, so we appreciate you taking some time to share your thoughts with us. Thank you again for your support, and we look forward to serving you in the future. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Asking for customer feedback on a purchase",
+        "input": "",
+        "output": "Dear [Customer name], I just wanted to reach out and see if you have a moment to provide some feedback on your recent purchase of [product/service]. At [Your company name], we’re always looking for ways to improve our products and services, and your feedback is incredibly valuable to us. If you have a moment, we’d love to hear your thoughts on your experience. We appreciate your support and value your business. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Request feedback from customers who left a negative review",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for sharing your experience with us. We’re sorry to hear that you weren’t satisfied with your recent purchase, and we are doing our best to fix that. If you could spare the time, we’d love to hear more about your experience. If you have any detailed feedback or suggestions that you’d like to share with us, it would really help. We’ll share your comments with our team and work on ways to improve. Thank you again for your time and input. We value your opinion and look forward to serving you better in the future. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Requesting a customer fill out a customer satisfaction score survey",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to reach out and ask for your input. We’re always looking for ways to improve our customer service, and we’d love to hear your thoughts on your recent experience with us. If you have a moment, could you please fill out a short customer satisfaction survey ? Your feedback is incredibly valuable to us, and we appreciate your help. You can select your ratings using the templates below: [insert templates] Thank you in advance for your time and support. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Technical support email template",
+        "input": "",
+        "output": "Dear [Customer name], I just wanted to make sure you benefit from our 24/7 assistance with any technical issues you may be experiencing. Our team is available to provide you with the support you need to ensure a smooth and seamless product experience. If you’re experiencing any difficulties or have questions about our product, please don’t hesitate to reach out. We’re here to help and will do our best to resolve your issue as quickly as possible. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Tell customers they’re getting an automated email response",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for reaching out to us! We have received your message, and we appreciate your interest in our products and services. We strive to respond to all inquiries within 24 hours, and we will get back to you as soon as possible. Please note that this is an automated email response . If you have any further questions or concerns, feel free to reply to this email, and one of our representatives will get back to you shortly. Thank you for your patience, and we hope you have a great day. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Customer service follow-up email template",
+        "input": "",
+        "output": "Dear [Customer name], I hope this email finds you well. I wanted to follow up on the service request you submitted on [date]. I understand that you were experiencing [issue/incident] , and I wanted to ensure that everything was resolved to your satisfaction. If you have any further questions or concerns, please don’t hesitate to contact me directly. We value your business and want to ensure that you are completely satisfied with our services. Thank you for choosing [Your company name]. We look forward to serving you again. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Refusing a discount request",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to reach out and confirm that we have received your recent discount request. We appreciate your business and your loyalty to [Your company name]. Unfortunately, we’re unable to offer the discount you requested at this time. We have to balance our pricing with the costs of providing high-quality products and services, and we’re confident that you’ll still find great value in our offerings. If there’s anything else we can do to make your experience better, please don’t hesitate to reach out. We’re here to help. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Answering a demo request that was submitted on your website",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for visiting our website and expressing interest in our product! We are glad to hear that you are interested in learning more about our solution and how it can help you achieve your goals. To schedule a demo call at a time that works best for you, we have integrated a scheduling tool that allows you to choose a convenient time slot from our calendar. You can access this by clicking on the following link: [calendar link] In the meantime, if you have any questions or concerns, please don’t hesitate to contact us. Our team is always here to help. Thank you again for your interest in our product, and we look forward to speaking with you soon. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Summary email of the demo product call",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to take a moment to thank you for taking the time to speak with us today during the demo call. It was great to have the opportunity to showcase our product and how it can benefit you. If there’s anything else you would like to discuss, or if you have any further questions, please don’t hesitate to reach out. We hope that the demo was informative and helpful in showing you how our product works and how it can help your business grow at your desired pace. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Provide renewal reminders to avoid passive churn",
+        "input": "",
+        "output": "Dear [Customer name], As your account is due for renewal soon, we wanted to remind you of the benefits you’ll continue to receive by renewing your subscription with us. Renewing now will ensure you don’t miss out on any of the features and services you’ve come to rely on. We would hate for you to experience any interruptions in your service. To renew, log in to your account on our website and follow the instructions. If you have any questions or need assistance, please don’t hesitate to contact our customer service team. As a token of our appreciation , we’re also offering a [discount/special offer] for early renewal. Don’t miss out! Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Keep in touch email template",
+        "input": "",
+        "output": "Dear [Customer name], Is there anything we can do to assist you with? It’s been a while since we last heard from you, so we were wondering if everything is running smoothly with our [product/service]. Please don’t hesitate to reach out if you need extra info about the product or simply if you’d like to let us know what you think. Regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Responding to a customer who churned on good terms",
+        "input": "",
+        "output": "Dear [Customer name], We’re sorry to see you go but are grateful for the time you spent with us. Thank you for choosing our services, and we hope you had a positive experience with our product. If there’s anything we can do to help with your future endeavors, please don’t hesitate to reach out. We’d love to hear how we can continue to be a part of your success story. Thank you again for your support, and we hope to hear from you soon. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Upsell customers",
+        "input": "",
+        "output": "Hey [Customer name]! 😊 We hope you’re enjoying your recent purchase with us. Based on your recent order history, we have a few extra recommendations you will love. Check out [insert product recommendations and links] , and don’t forget that [insert any discounts or promotions] ! As always, if you have any questions, please feel free to reach out to us. We appreciate your business and look forward to serving you in the future. All the best, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Providing the answer to a customer issue or query",
+        "input": "",
+        "output": "Dear [Customer name], I’m happy to let you know that we have found a resolution for your recent query. Thank you for contacting us and giving us the opportunity to help. Regarding your question, we have devised the following solution: [provide the answer to the customer’s issue or query]. I hope this helps clarify things and that you’ll find the information useful. If there is anything else you might need, please don’t hesitate to contact customer support. We’re always here to help. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Following up with a customer email template",
+        "input": "",
+        "output": "Dear [Customer name], I just wanted to follow up on our recent conversation and see if there’s anything else we can do for you. Is there an issue we haven’t addressed yet? We’d love to make sure that you have everything you need, so don’t hesitate to reach out. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Convert abandoned carts",
+        "input": "",
+        "output": "Dear [Customer name], We noticed that you forgot something in your cart and wanted to remind you that the stock for [Your product name] is quickly running out. Could we provide any extra information to help you complete the purchase process? If so, don’t hesitate to let us know. To ensure the best possible experience, we are including a [insert discount code, free shipping, or other incentives] to help you complete your shopping experience. Please get in touch if there’s anything else we can assist you with. We’re always happy to help. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Free trial email template",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to reach out and introduce you to the opportunity of a free trial with [Your company name]. We’re confident that you’ll love our [products/services], and we’re offering you the chance to try them out for free. This is a great opportunity to see how [Your company name] can help you achieve your goals and meet your needs. If you’re interested, please don’t hesitate to reach out. We’re here to help. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Asking a customer for a referral",
+        "input": "",
+        "output": "Hello [Customer name], We appreciate your business and would love your help in spreading the word about our [products/services] . If you have had a positive experience with us, would you consider referring us to your friends and family? Word of mouth is a powerful tool, and we would love to grow our customer base through your recommendation. As a thank-you for your support, we are offering a discount of X% on your next purchase with us. Simply share your referral link with your network, and they will receive a discount of Y% on their first purchase. Thank you for your continued support and for considering our request. Please let us know if you have any questions or if there is anything we can do to assist you. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Announce a new support channel or a new product/service",
+        "input": "",
+        "output": "Dear [Customer name], We’re happy to announce a new addition to our customer support channel. [Your/product/service/support channel] is now available, and we can’t wait to hear your thoughts. [insert new product image, video, gif, or preview] Our goal is to provide our customers with the best possible support experience, and we believe that [Your/product/service/support channel] will help us achieve this goal. With [insert new support channel/product/service], you will be able to [benefits of your/product/service/support channel] . Please contact us if you have any questions or would like to learn more about [Your/product/service/support channel] . Regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Soft launch a product to a small group of customers",
+        "input": "",
+        "output": "Dear [Customer name] , We are thrilled to announce the soft launch of our new product, [Your product name]. As a valued customer, we would like to extend an exclusive invitation to you to be among the first to try it . This soft launch is an exciting opportunity for us to gather feedback from our most loyal customers . We would greatly appreciate your thoughts and comments on our new product. Your feedback will help us improve our products and services to better meet your needs. Please follow the link below to access the exclusive soft launch and enjoy the new product. We appreciate your business and look forward to hearing from you. [Call to action/link] Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Promote sales and time-sensitive deals",
+        "input": "",
+        "output": "Dear [Customer name], We are excited to offer you an exclusive time-sensitive deal on our [Your product name]. This is a limited-time offer that is only available to our valued customers, so don’t miss out on this amazing deal. [Include details on the deal, such as discount, offer end date, and product description] We appreciate your business and hope you take advantage of this special offer. If you have any questions or concerns, please don’t hesitate to contact us. [Call to action/link] Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Announce a new self-service resource",
+        "input": "",
+        "output": "Dear [Customer name], As part of our commitment to providing you with the best experience possible, we’re thrilled to announce the launch of our new self-service resource. With this resource, you will have access to all the information you need to manage your account, including the ability to update your billing information, view past transactions, and get answers to frequently asked questions . To access the resource, simply log in to your account on our website. We hope this new feature will give you more control and make your experience with us even better. If you have any questions or feedback, please do not hesitate to reach out to our customer service team. We’re here to help. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Renewal reminder email template",
+        "input": "",
+        "output": "Dear [Customer name], This is a quick reminder that your [Your company name] subscription is due for renewal soon. We value your business and are committed to providing you with the best possible experience. Renewing your subscription ensures that you’ll continue to receive the [products/services] and support you need to achieve your goals. Click here to renew your subscription starting today: [Call to action/link] If you have any questions or concerns, please don’t hesitate to reach out. We’re here to help. Wishing you the best, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Return of overpayment email template",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for your recent payment to our company. Our records indicate that an overpayment of [$amount] has been made . We are committed to ensuring that your account is accurate and up-to-date. We would like to process the return of your overpayment as soon as possible. To do this, we need you to provide us with your bank account details so that we can initiate a refund. Please let us know if you have any questions or concerns. We are here to help. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Refund notification email template",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for contacting us regarding your refund request. I wanted to let you know that we have received your request and are processing it as we speak. Please be assured that we take our responsibility to provide you with an excellent customer experience very seriously. Your satisfaction is our top priority, and we apologize for any inconvenience you may have experienced. We will email you as soon as your refund has been processed. In the meantime, if you have any questions or concerns, please do not hesitate to contact us. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Refund status email template",
+        "input": "",
+        "output": "Dear [Customer name], I hope this email finds you well. I wanted to follow up on your refund request and provide you with an update on its status. Your refund has been processed, and [$amount] will be credited to your original payment method within [number of days] days. If you have not received the refund after [number of days] days, please contact us, and we will be happy to assist you. We understand that your time is valuable, and we apologize for any inconvenience this may have caused. We appreciate your patience and understanding as we work to resolve this issue. If you have any further questions or concerns, please do not hesitate to reach out. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Refund not received email template",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for contacting us regarding the status of your refund. We apologize for the inconvenience and are here to help. We would like to investigate the issue with your refund. Can you please provide us with the following information: This information will help us to track down the issue and resolve it as quickly as possible. We are committed to ensuring that your account is accurate and up-to-date. We will be in touch with you shortly with an update on the status of your refund. Regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Out-of-policy refund email template",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for reaching out to us regarding your refund request. I understand that you are seeking a refund outside of our standard refund policy. We take our responsibility to provide you with an excellent customer experience very seriously. We are committed to finding a solution that meets your needs and provides you with the best possible outcome. Can you please provide us with more details about the circumstances surrounding your request for a refund? This information will help us to understand your situation and make an informed decision. We appreciate your patience and understanding as we work to resolve this issue. If there is anything else we can assist with, please do not hesitate to reach out. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Responding to a frustrated customer who churned",
+        "input": "",
+        "output": "Dear [Customer name], We’re sorry to hear that you’ve decided to leave us. Our goal is to make every customer happy, and we apologize if we fell short in your case. Is there anything specific that made you decide to stop using [Your product name] ? We’d love to hear your feedback and find ways to improve in the future. If there’s anything we can do to change your mind, please let us know. We’d be more than happy to offer you a discount or find ways to better suit your business needs. We regret any negative experience you may have had with us and hope to have the opportunity to make it up to you in the future. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Customer complaint response email template",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to reach out and let you know that we received your complaint. I am sorry to hear that you had a negative experience with our product/service. This is not the experience we want you to have. At [Your company name] , we strive to provide excellent customer service, and we take customer feedback seriously. We understand that your experience did not meet your expectations, and we would like to make things right. Please let us know how we can assist you, and we will do our best to resolve the issue promptly. If you would like to discuss the matter further, please feel free to contact me directly. We appreciate your business, and we hope to have the opportunity to serve you better in the future. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Item arrived damaged",
+        "input": "",
+        "output": "Dear [Customer name], We are sorry to hear that your recent purchase of [Your product name] arrived in a damaged condition. We understand the inconvenience this may have caused, and we apologize. We take pride in providing quality products and services and are committed to resolving this issue as quickly as possible. Depending on your preference, we will provide a full refund or a replacement item. Please let us know which option works best for you. Thank you for bringing this to our attention and for your understanding. If you have any further questions or concerns, please don’t hesitate to contact us. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Item arrived damaged — follow up",
+        "input": "",
+        "output": "Dear [Customer name], We are sorry to hear that your recent purchase of [Your product name] arrived damaged, and we apologize for the inconvenience caused. We take quality issues very seriously and appreciate you bringing them to our attention. Our team is currently reviewing your case and will provide a full refund or a replacement item, depending on your preference. We will keep you informed of any updates and work towards resolving the issue as soon as possible. Thank you for your patience and understanding. If you have any questions or concerns, please don’t hesitate to contact us. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "General frustration with product or experience",
+        "input": "",
+        "output": "Dear [Customer name], We are sorry to hear that you have been experiencing [issue/incident] with our [product/service] , and we apologize for any inconvenience caused. We are committed to providing the best products and services to our customers, and we take all feedback seriously. We would like to know more about the issues you have been experiencing and encourage you to contact us with more information. Our team will work to resolve any problems and make sure that you are satisfied with our [product/service] . Thank you for your patience and understanding. Regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Escalate angry customers to more technical support",
+        "input": "",
+        "output": "Dear [Customer name], We are sorry to hear that you have been experiencing issues with our [product/service] . We understand that technical issues can be frustrating, and we would like to help you resolve them as soon as possible. Our support team is available to help you with any technical issues you may be experiencing. Please contact us with more information, and we will escalate your case to our specialized technical support team for assistance. Thank you for your patience and understanding, and we hope to continue serving you better in the future. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Responding to a frustrated customer who’s asking for a resolution",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for contacting us, and we apologize for your frustration. Our goal is to provide the best possible service, and we’re sorry if that wasn’t enough in your case. Can you please provide more details about your issue ? We’d love to understand the situation better and find a resolution for you as soon as possible. Once again, we’re sorry for any negative experience you may have had with us, and we’re here to help. If there’s anything we can do to make it up to you, please don’t hesitate to ask. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Responding to a customer complaint",
+        "input": "",
+        "output": "Dear [Customer name], Thank you for reaching out to us. We’re sorry for the inconvenience you experienced. Our goal is to provide the best possible service, and we’re sorry for any difficulty you may have encountered. We’re always looking for ways to improve our services and would be more than happy to offer you a discount if that would help with the problem. Please let us know if that would be of interest. All the best, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Change shipping address",
+        "input": "",
+        "output": "Dear [Customer name], We wanted to let you know that we have received a request to change the shipping address on your account. To ensure that your order is shipped to the correct address, please click on the following link to update your shipping information: [link] If you did not make this request, please reach out to our customer service team immediately. Thank you for your attention to this matter. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Announce website or product outages",
+        "input": "",
+        "output": "Dear [Customer name], We wanted to inform you that our [website/product] is experiencing a temporary outage. Our technical team is aware of the issue and working to resolve it as soon as possible. We apologize for any inconvenience this may have caused and would like to assure you that we are doing everything in our power to restore full functionality. In the meantime, you can easily access our status report page to see an estimate of how much longer it will take to solve the problem: [page link] We will send another update as soon as the issue is resolved. Thank you for your patience and understanding. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Announce a pricing increase",
+        "input": "",
+        "output": "Dear [Customer name], We wanted to let you know that our services will be priced higher starting [date]. We understand that this may come as a surprise, and we wanted to provide some context for the change. We have made a number of investments to improve our services and offer new features, and this increase will help us continue to provide you with the best possible experience. Rest assured, the increase will not affect any of the features or services you currently receive. We value your business and would like to offer you the opportunity to lock in your current rate by renewing your subscription before the increase takes effect. You can do that by clicking here : [link] [insert a visual explanation or table showing prices before and after the increase] If you have any questions or would like to discuss this further, please don’t hesitate to reach out to our customer service team. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Informing a customer about a renewal opportunity",
+        "input": "",
+        "output": "Dear [Customer name], I hope this email finds you well. I wanted to let you know that your [product/service] is coming up for renewal soon. We value your business and would love to continue serving you. If you’re interested in renewing, we’d be more than happy to offer you a discount or any other incentives that may help. Please let us know if you have any questions or if there’s anything we can do to make the renewal process easier. We’re here to help in any way we can. Regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Informing a customer about their contract having expired",
+        "input": "",
+        "output": "Dear [Customer name], I wanted to reach out and let you know that your [product/service] contract has expired. We’ve enjoyed serving you, and we’d love to continue providing you with our services. If you’re interested in renewing, we’d be more than happy to assist you. Please let us know if you have any questions or if there’s anything we can do to make the renewal process easier for you. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order/shipping status (Where is my order?): Not shipped, preorder",
+        "input": "",
+        "output": "Dear [Customer name], We wanted to reach out and provide an update on your recent preorder. We’re thrilled to let you know that your order is currently in production and will be shipped soon. We apologize for the delay and would like to assure you that we’re doing everything we can to get your order to you as quickly as possible. Thank you for your patience and understanding. If you have any questions or concerns, please don’t hesitate to reach out to our customer service team. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order/shipping status (Where is my order?): Not shipped",
+        "input": "",
+        "output": "Dear [Customer name], We wanted to reach out and provide an update on your recent order. We’re sorry to let you know that your order has not yet shipped. We are currently handling a large volume of orders, but our team is working to resolve the issue as quickly as possible. We will provide another update as soon as we have more information, but rest assured that your package will be leaving our warehouse in a matter of days. If you have any questions or concerns, please don’t hesitate to reach out to our customer service team. Best regards, [Your name] [Your contact information"
+    },
+    {
+        "instruction": "Order is out of stock",
+        "input": "",
+        "output": "Hello [Customer name], We are sorry to inform you that your recent order for [Your product name] is currently out of stock. We understand the frustration this may cause, and we apologize for the inconvenience. We are working diligently to restock the item as soon as possible. In the meantime, we can offer similar products you can access here: [link]. We can also offer you a full refund in case these products are not to your liking. Thank you for choosing our company, and we appreciate your patience. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order change/cancel: Cancel and refund last order",
+        "input": "",
+        "output": "Dear [Customer name], We received your request to cancel your order for [Your product name] . We apologize for any inconvenience and appreciate your patience. We have initiated the refund process, and you should receive your funds within the next few business days, depending on your payment method. Thank you for your business, and please feel free to reach out if you have any further questions. Always eager to help, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order change/cancel: Customer changed mind",
+        "input": "",
+        "output": "Dear [Customer name], We have received your request to cancel your order for [Your product name] as you have decided not to proceed with the purchase. We apologize for any inconvenience this may have caused, and we appreciate your understanding. If there is anything we can do to help you find a product that better suits your needs, please don’t hesitate to contact us. We value your feedback and would love to assist you with your future purchases. Thank you for your business, and we hope to serve you again soon. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order/shipping status (Where is my order?): Shipped",
+        "input": "",
+        "output": "Dear [Customer name], We are excited to inform you that your recent order for [Your product name] has been shipped and is on its way to you. Here is the tracking number you can use to monitor your shipment: [#tracking number] We are doing our best to help you receive your item as soon as possible. If you have any questions or concerns about the delivery, please don’t hesitate to contact us. Thank you for your business, and we hope you enjoy your new purchase. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order change/cancel: Already shipped",
+        "input": "",
+        "output": "Dear [Customer name], We have received your request to cancel or modify your order for [Your product name], but we regret to inform you that it has already been shipped. We understand that this may be frustrating, and we apologize for any inconvenience. If you no longer need the item, we suggest returning it once it has been delivered. Please refer to the return policy on our website for further instructions. If you need further assistance or have any questions, please feel free to contact us. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order is lost",
+        "input": "",
+        "output": "Hello [Customer name], We are sorry to hear that you have not yet received your order for [Your product name]. We understand the inconvenience this has caused you, and we apologize for the delay. We have initiated an investigation into the whereabouts of your package and will keep you updated on its status. If we are unable to locate your order, we will provide you with a full refund or a replacement item, depending on your preference. Thank you for your patience and understanding, and please don’t hesitate to contact us if you have any further questions or concerns. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Order/shipping status (Where is my order?): Delivered, not received",
+        "input": "",
+        "output": "Dear [Customer name], We have received your inquiry about the delivery status of your order for [Your product name] . According to our records, the item was delivered on [date] , but it seems you have not received it yet. We understand the frustration this may cause, and we apologize for the inconvenience. Check with anyone who may have signed for the package on your behalf. If the problem persists, we will initiate an investigation with the courier and keep you updated on its status. Depending on your preference, a refund or replacement item will be issued. Thank you for your business, and we hope to resolve this issue as soon as possible. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Exchange request after the order arrives",
+        "input": "",
+        "output": "Dear [Customer name], We received your request to exchange your recent purchase of [Your product name]. We will process the request as quickly as possible and will keep you informed of its progress. To make sure the entire process runs smoothly, we might need more info on the product you wish to exchange, such as color or size, to ensure that we send the correct item. We are doing our best to provide a positive shopping experience and would appreciate more feedback if you could spare some time. If you have further concerns or questions, please don’t hesitate to contact us. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Request for return/refund (Item eligible)",
+        "input": "",
+        "output": "Dear [Customer name], We have received your request to [return/refund] your recent purchase of [Your product name] . We understand that the product did not meet your expectations, and we apologize for the inconvenience. We will initiate the [refund/return] process as quickly as possible and will keep you informed of the progress. We may need further information from you, such as your reason for [return/refund] , to help improve our products and services. Thank you for your business and for helping us improve our products and services. If you have any further questions or concerns, please don’t hesitate to contact us. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Request for return/refund (Item not eligible)",
+        "input": "",
+        "output": "Hello [Customer name], We regret to inform you that we are unable to approve your recent return or refund request for [Your product name] . According to our return policy, we are unable to accept returns for products that have been used, damaged, or altered. We apologize for any inconvenience this may cause. For further information, please refer to our return policy on our website. If you have any questions or concerns, please don’t hesitate to contact us. Best regards, [Your name] [Your contact information]"
+    },
+    {
+        "instruction": "Professional Business Email Template",
+        "input": "",
+        "output": "Hey [name], Thank you for signing up to my weekly newsletter. Before we get started, you‘ll have to confirm your email address. Click on the button below to verify your email address and you‘re officially one of us! [CTA button]"
+    },
+    {
+        "instruction": "How to Use an Email Template",
+        "input": "",
+        "output": "Hi [name]! Welcome to [brand name]. We are happy to have you join our community. [Brand name] goal is to create [add goal and/or mission of your brand]. We promise to only send you emails [add how many times per week you will be sending an email]."
+    },
+    {
+        "instruction": "Custom Email Template",
+        "input": "",
+        "output": "Hi [name], We're glad to have you on board. Here’s a quick introduction to our brand. We're committed to providing excellent services and valuable resources to our customers."
+    },
+    {
+        "instruction": "Meeting Request Email",
+        "input": "",
+        "output": "Dear [name], I hope you're doing well. I would like to request a meeting to discuss [briefly mention topic]. Could you please let me know your availability in the coming days? I’m flexible and can adjust my schedule to a time that works best for you. Looking forward to hearing from you! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Follow-Up on Meeting Request",
+        "input": "",
+        "output": "Dear [name], I hope you're well. I wanted to follow up on my previous email regarding a potential meeting to discuss [topic]. I know you’re busy, but I would appreciate it if we could schedule some time to connect in the coming days. Please let me know if there’s a convenient time for you. Thank you in advance, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Confirmation of Meeting",
+        "input": "",
+        "output": "Dear [name], Thank you for confirming the meeting on [date]. I look forward to discussing [specific topic]. Please feel free to share any agenda items or materials in advance if you’d like. If anything changes, don’t hesitate to reach out. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Professional Networking Introduction",
+        "input": "",
+        "output": "Dear [name], I hope this message finds you well. I would like to introduce you to [Name of Other Contact], [Brief description of their background or expertise]. I believe you both might benefit from connecting regarding [reason for the introduction]. Please feel free to reach out directly to one another, and let me know if I can help facilitate further. Best, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Initial Sales Outreach",
+        "input": "",
+        "output": "Dear [name], I’m [Your Name], and I work with [Company Name]. We specialize in helping companies like yours achieve [specific benefit, e.g., higher sales, better customer retention, etc.]. I’d love to schedule a quick call to discuss how we can help [Recipient’s Company Name] reach its goals. Are you available for a 15-minute chat sometime this week? Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Follow-Up Sales Email",
+        "input": "",
+        "output": "Dear [name], I wanted to follow up on my previous email about how [Company Name] can assist with [specific solution]. I’d be happy to jump on a brief call to explore how we can help your team streamline [specific process] or improve [specific outcome]. Please let me know a time that works for you. Looking forward to hearing from you, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+     },
+     {
+        "instruction": "Product Announcement",
+        "input": "",
+        "output": "Dear [name], We’re excited to announce the launch of our latest product/service, [Product/Service Name]. Designed to [solve a problem or improve a process], it offers [highlight key features or benefits]. To celebrate, we’re offering a limited-time [discount/free trial/other offer]. Click here to learn more and get started: [link]. Looking forward to hearing your thoughts! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Acknowledgment of Customer Inquiry",
+        "input": "",
+        "output": "Dear [Customer's Name], Thank you for your email! We’ve received your inquiry regarding [issue or product], and we are currently reviewing it. Our team will get back to you with more information as soon as possible, typically within [time frame, e.g., 24 hours]. We appreciate your patience. Best regards, [Your Full Name] [Your Position] [Company Name] [Customer Service Team Contact Information]"
+    },
+    {
+        "instruction": "Resolving Customer Issue",
+        "input": "",
+        "output": "Dear [Customer's Name], I’m happy to inform you that your issue with [product/service] has been resolved. [Briefly describe the resolution steps, if applicable]. Please let me know if you need further assistance or have any other questions. Your satisfaction is very important to us, and we’re here to help! Best regards, [Your Full Name] [Your Position] [Company Name] [Customer Service Team Contact Information]"
+    },
+    {
+        "instruction": "Feedback Request",
+        "input": "",
+        "output": "Dear [Customer's Name], We hope you’re enjoying your experience with [Company/Product]. We’d love to hear your thoughts on [specific service or product] to ensure we continue to improve. If you could take a moment to complete this short survey, we’d really appreciate it: [survey link]. Thank you for helping us improve! Best regards, [Your Full Name] [Your Position] [Company Name] [Customer Service Team Contact Information]"
+    },
+    {
+        "instruction": "General Thank You Email",
+        "input": "",
+        "output": "Dear [Recipient's Name], I wanted to take a moment to personally thank you for [action, support, or favor]. It truly means a lot, and I’m grateful for your [assistance, time, generosity, etc.]. If there’s anything I can do for you in return, please don’t hesitate to ask. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Thank You for Attending Event",
+        "input": "",
+        "output": "Dear [Recipient's Name], Thank you for attending [Event Name]! We hope you found it valuable and enjoyed [specific aspect of the event]. We’d love to hear your feedback, so feel free to share any thoughts you have. We look forward to connecting again soon. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Thank You for a Referral",
+        "input": "",
+        "output": "Dear [Recipient's Name], I wanted to personally thank you for referring [Name or Company] to us. We appreciate your trust and are excited to help them with [specific service/product]. If you ever need anything in return, don’t hesitate to reach out. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Invitation Email",
+        "input": "",
+        "output": "Dear [Recipient's Name], I hope you're doing well! I’d love for you to join us for [event name] on [date and time]. It will be held at [location or online platform], and we’ll be [brief description of the event]. Please let me know if you’re able to attend—I’d be thrilled to have you there! Best regards, [Your Name]"
+    },
+    {
+        "instruction": "Holiday Greetings",
+        "input": "",
+        "output": "Dear [Recipient's Name], As the [Holiday] season approaches, I wanted to take a moment to wish you and your family all the best. May your holidays be filled with joy, warmth, and laughter! Looking forward to catching up in the New Year. Best wishes, [Your Name]"
+     },
+     {
+        "instruction": "Congratulations Email",
+        "input": "",
+        "output": "Dear [Recipient's Name], I just wanted to congratulate you on your recent [achievement—new job, promotion, graduation, etc.]. This is such an exciting milestone, and I’m really happy for you! Wishing you continued success in all your endeavors. Best regards, [Your Name]"
+     },
+     {
+        "instruction": "Appointment Reminder Email",
+        "input": "",
+        "output": "Dear [Name], This is a friendly reminder about your appointment with [service or department] scheduled for [date and time]. If you need to reschedule or have any questions, please don’t hesitate to contact us at [phone number or email]. Looking forward to seeing you! Best regards, [Your Name] [Your Position] [Company Name] [Your Contact Information]"
+     },
+     {
+        "instruction": "Thank You After a Job Interview",
+        "input": "",
+        "output": "Dear [Interviewer’s Name], Thank you again for the opportunity to interview for the [position title] at [Company Name]. I really enjoyed our conversation and learning more about your team and company. I’m excited about the possibility of contributing to [specific project/initiative]. Please let me know if you need any further information from me. Best regards, [Your Full Name] [Your Contact Information]"
+     },
+     {
+        "instruction": "Confirmation of Product Order",
+        "input": "",
+        "output": "Dear [Customer's Name], Thank you for your order! We’ve successfully received your order of [Product Name(s)] and are currently processing it. You can expect to receive an update with shipping details soon. If you have any questions or concerns, please don't hesitate to contact us. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+     },
+     {
+        "instruction": "Shipping Confirmation Email",
+        "input": "",
+        "output": "Dear [Customer's Name], Your order of [Product Name(s)] has shipped! You can track your package with the following tracking number: [Tracking Number]. Expected delivery date: [Delivery Date]. Thank you for shopping with us, and we hope you enjoy your purchase! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+     },
+     {
+        "instruction": "Payment Reminder Email",
+        "input": "",
+        "output": "Dear [Customer's Name], This is a friendly reminder that your payment of [Amount] for invoice [Invoice Number] is due on [Due Date]. To avoid any late fees, please make sure to complete your payment by the due date. If you’ve already made the payment, please disregard this message. If you have any questions, feel free to reach out. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+     },
+     {
+        "instruction": "Apology for Service Delay",
+        "input": "",
+        "output": "Dear [Customer's Name], I sincerely apologize for the delay in [service/product delivery]. We are actively working to resolve the issue and ensure this doesn’t happen again. Your satisfaction is our priority, and we appreciate your patience. If you have any immediate concerns, please feel free to contact us directly. Best regards, [Your Full Name] [Your Position] [Company Name] [Customer Service Contact Information]"
+    },
+    {
+        "instruction": "Customer Satisfaction Survey Request",
+        "input": "",
+        "output": "Dear [Customer's Name], We hope you are satisfied with your recent experience with [Company Name]. To help us improve our service, we would love to hear your feedback. Could you kindly take a few minutes to complete our customer satisfaction survey? [Survey Link]. We truly appreciate your input. Best regards, [Your Full Name] [Your Position] [Company Name] [Customer Service Contact Information]"
+    },
+    {
+        "instruction": "Discount Offer Email",
+        "input": "",
+        "output": "Dear [Customer's Name], As a thank-you for being a valued customer, we’re offering you an exclusive [percentage]% discount on your next purchase! Simply use the code [DISCOUNT CODE] at checkout to save. This offer is valid until [expiration date]. Don’t miss out! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Customer Service Follow-Up",
+        "input": "",
+        "output": "Dear [Customer's Name], I wanted to follow up to ensure that your issue with [product/service] has been fully resolved. If you have any further questions or concerns, please feel free to reach out. Your satisfaction is very important to us. Thank you for giving us the opportunity to serve you. Best regards, [Your Full Name] [Your Position] [Company Name] [Customer Service Contact Information]"
+    },
+    {
+        "instruction": "Product Feedback Request",
+        "input": "",
+        "output": "Dear [Customer's Name], We hope you’re enjoying your new [Product Name]. Your opinion matters to us, and we’d love to hear what you think. Could you please take a moment to leave a review or share any feedback you may have? Your insights will help us improve and serve you better. [Review Link]. Thank you for your time! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Customer Referral Program Announcement",
+        "input": "",
+        "output": "Dear [Customer's Name], We’re excited to introduce our new referral program! Now, when you refer a friend to [Company Name], you’ll both receive a special reward. It’s simple: just refer someone to [company/website] and once they make their first purchase, you both get [incentive]. Get started by sharing your referral link here: [Referral Link]. Thank you for being a part of our community! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Re-engagement Email",
+        "input": "",
+        "output": "Dear [Customer's Name], We’ve missed you! It’s been a while since we’ve heard from you, and we wanted to check in. We have some exciting new products and updates that we think you’ll love. Here’s a special offer to welcome you back: [Offer Details]. Take a look and let us know if you need any assistance. We’d love to have you back! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Event Registration Confirmation",
+        "input": "",
+        "output": "Dear [Recipient's Name], Thank you for registering for [Event Name]! We are excited to have you join us on [Event Date] at [Event Time]. The event will be held at [Location/Online Platform]. We look forward to seeing you there! If you have any questions, feel free to reach out. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Event Reminder Email",
+        "input": "",
+        "output": "Dear [Recipient's Name], This is a friendly reminder that [Event Name] is coming up on [Event Date] at [Event Time]. We look forward to seeing you at [Event Location/Online Platform]. Don’t forget to bring [any necessary items, e.g., ticket, ID, etc.]. If you need further details, feel free to reach out. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Cancellation Confirmation Email",
+        "input": "",
+        "output": "Dear [Recipient's Name], We have successfully canceled your order/appointment/registration for [Product/Service/Event Name] as per your request. If this cancellation was made in error or if you wish to rebook, please don’t hesitate to contact us. Thank you for your understanding. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+        },
+        {
+        "instruction": "Account Deactivation Notification",
+        "input": "",
+        "output": "Dear [Recipient's Name], We’re reaching out to confirm that your account with [Company Name] has been successfully deactivated. If this was an error or if you'd like to reactivate your account, please let us know. We appreciate your time with us, and if you ever need our services again, we’d be happy to welcome you back. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Subscription Renewal Reminder",
+        "input": "",
+        "output": "Dear [Customer's Name], Your subscription to [Service/Plan Name] is set to renew on [Renewal Date]. The amount of [Amount] will be charged to your [payment method]. If you wish to make any changes to your plan or update your payment information, please do so before [Renewal Date]. If you have any questions, we’re here to help. Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Birthday Email for Customer",
+        "input": "",
+        "output": "Dear [Customer's Name], Happy Birthday from all of us at [Company Name]! We hope your day is filled with joy and celebration. As a special birthday treat, we’d like to offer you [discount or special offer]. Use the code [BIRTHDAY CODE] at checkout. Enjoy your day, and thank you for being such a valued customer! Best wishes, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Upsell/Cross-sell Email",
+        "input": "",
+        "output": "Dear [Customer's Name], Thank you for purchasing [Product Name]! We thought you might also be interested in [related product or service], which would complement your recent purchase perfectly. You can view the item here: [Product Link]. If you need any assistance, feel free to reach out. We’re happy to help! Best regards, [Your Full Name] [Your Position] [Company Name] [Your Contact Information]"
+    },
+    {
+        "instruction": "Reminder email template for a pending task",
+        "input": "",
+        "output": "Hi {name}, Just a quick reminder that {task/assignment} is still pending. If you could kindly complete it by {due date}, that would be great. Let me know if you need any help or further information. Thanks for your attention! Best, {Your Name}"
+    },
+    {
+        "instruction": "Invitation email template for an event",
+        "input": "",
+        "output": "Hi {name}, We’re excited to invite you to {event name}, which will take place on {date} at {location}. {Event description}. It would be wonderful to have you join us! Please RSVP by {RSVP date} to confirm your attendance. Looking forward to seeing you there! Best, {Your Name}"
+    },
+    {
+        "instruction": "Product Feedback Request Email",
+        "input": "",
+        "output": "Dear {name}, We value your opinion! As a recent customer of {Product Name}, we would love to hear about your experience. Your feedback will help us improve and provide better products and services. Please take a moment to complete our short survey: {Survey Link}. Thank you for your time! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template for requesting a reference or testimonial",
+        "input": "",
+        "output": "Hi {name}, I hope you’re doing well. I’m reaching out to see if you would be willing to provide a testimonial or reference for the work we did together on {project/product}. Your kind words would mean a lot and help others learn more about our services. If you’re interested, you can send me your feedback at your convenience. Thanks in advance! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Client onboarding email template",
+        "input": "",
+        "output": "Hi {name}, Welcome aboard! We’re thrilled to have you as a client. As we begin our journey together, here’s a quick overview of the next steps: {Onboarding steps}. If you have any questions along the way, don’t hesitate to reach out. We look forward to helping you achieve your goals. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for your purchase email template",
+        "input": "",
+        "output": "Hi {name}, Thank you for purchasing {product}! We hope you’re excited about your new {product name}. If you have any questions or need assistance, feel free to reach out. Enjoy your purchase, and we look forward to serving you again in the future! Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Subscription renewal reminder email",
+        "input": "",
+        "output": "Hi {name}, This is a friendly reminder that your subscription for {service/product} will renew on {date}. If you wish to make any changes to your plan, please visit {link} or contact us. We appreciate your continued support and look forward to another year of serving you! Best, {Your Name}"
+    },
+    {
+        "instruction": "New feature announcement email",
+        "input": "",
+        "output": "Hi {name}, We’ve just rolled out a brand-new feature in {product/service}, and we can’t wait for you to try it! {Feature description and benefits}. To get started, simply {instructions}. Let us know your thoughts – we’re always eager to hear your feedback. Enjoy the new feature! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Apology email template for delay in response",
+        "input": "",
+        "output": "Hi {name}, I sincerely apologize for the delayed response. We’ve been working hard to resolve {issue}, and I appreciate your patience. Please let me know if there’s anything urgent you’d like me to address. Thank you for your understanding! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Event follow-up email template",
+        "input": "",
+        "output": "Hi {name}, It was great seeing you at {event name}! I hope you enjoyed the session and found the experience valuable. If you have any further questions or feedback, please don’t hesitate to reach out. We hope to see you again at our future events. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Client feedback request after project completion",
+        "input": "",
+        "output": "Dear {name}, It’s been a pleasure working with you on {project name}. We always strive to improve, and your feedback is invaluable to us. If you have a moment, please let us know how we did and if there’s anything we can improve for future projects. Thank you in advance for your time! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Out-of-office email template",
+        "input": "",
+        "output": "Hi, Thank you for reaching out. I’m currently out of the office and will not be available until {date}. If your request is urgent, please contact {colleague’s name} at {contact info}. I will respond to your email as soon as possible upon my return. Thank you for your understanding! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for attending an event email template",
+        "input": "",
+        "output": "Hi {name}, Thank you for attending {event name}! We hope you found it informative and valuable. If you have any further questions or feedback, please don’t hesitate to reach out. We hope to see you again at our future events. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Special promotion offer email",
+        "input": "",
+        "output": "Hi {name}, We’ve got a special treat for you! For a limited time, enjoy {offer details, e.g., 20% off} on your next purchase. Simply use the promo code {promo code} at checkout. Don’t miss out – the offer ends on {end date}. Happy shopping! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template for introducing a partnership opportunity",
+        "input": "",
+        "output": "Hi {name}, I hope this email finds you well. I’ve been following your work at {company name} and am really impressed with your achievements. I believe there’s a great opportunity for us to collaborate on {specific project or idea}. I’d love to discuss how a partnership could be mutually beneficial. Let me know if you’re open to a conversation. Looking forward to hearing from you! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template to announce a new team member",
+        "input": "",
+        "output": "Hi {name}, I’m excited to share that we’ve added a new member to our team, {new team member’s name}, who will be joining us as {role}. {New team member’s name} comes to us with {brief background}. We’re confident that {his/her/their} expertise will be a huge asset to our team and clients. Please join me in welcoming {new team member’s name} to the team! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template for requesting a testimonial from a client",
+        "input": "",
+        "output": "Hi {name}, I hope you’re doing well! We’ve truly enjoyed working with you on {project/product}. If you’re satisfied with the results, would you mind sharing a testimonial? Your feedback would mean a lot to us and could help others who are considering working with us. Please feel free to reply to this email with your thoughts. Thank you in advance! Best, {Your Name}"
+     },
+     {
+        "instruction": "Follow-up email for a job application",
+        "input": "",
+        "output": "Dear {name}, I hope this message finds you well. I wanted to follow up on my job application for the {position} role at {company name}, which I submitted on {date}. I’m very excited about the opportunity to contribute to {specific aspect of the company or position}. If you need any additional information, I’d be happy to provide it. Thank you for considering my application, and I look forward to hearing from you. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template for confirming a webinar registration",
+        "input": "",
+        "output": "Hi {name}, Thank you for registering for our upcoming webinar on {webinar topic}! We’re thrilled to have you join us. The event will take place on {date and time}. A confirmation email with a link to the session will be sent to you shortly. If you have any questions or need assistance before then, feel free to reach out. We look forward to seeing you there! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template for notifying about a price increase",
+        "input": "",
+        "output": "Dear {name}, I hope you’re doing well. We want to inform you that starting {date}, there will be a price adjustment for {product/service}. This decision comes as part of our commitment to continuously improve our offerings and maintain the quality you’ve come to expect. We understand this may come as a surprise, and we’re happy to answer any questions you may have. Thank you for your continued trust in us. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you email after a business meeting",
+        "input": "",
+        "output": "Hi {name}, It was a pleasure meeting with you earlier today. I enjoyed our discussion about {meeting topic}, and I’m excited about the possibilities for collaboration. I’ll follow up with the next steps as we discussed, and please don’t hesitate to reach out if you have any further questions. Looking forward to working together! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Reminder email for an unpaid invoice",
+        "input": "",
+        "output": "Dear {name}, I hope all is well. This is just a friendly reminder that invoice {invoice number} for {product/service} remains unpaid. The payment was due on {due date}, and we kindly ask that it be settled as soon as possible. If you’ve already made the payment, please disregard this message. If there are any issues or concerns, don’t hesitate to reach out. Thank you! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Welcome email template for a subscription service",
+        "input": "",
+        "output": "Hi {name}, Welcome to {subscription service name}! We’re so happy to have you on board. You’re now officially part of a community that enjoys {service benefit, e.g., exclusive content, special offers}. To get started, here’s a quick guide on how to make the most of your subscription: {link to guide}. If you have any questions, feel free to contact us anytime. Enjoy your subscription! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Customer inquiry response email template",
+        "input": "",
+        "output": "Dear {name}, Thank you for reaching out to us with your inquiry about {product/service}. We’re happy to assist! {Provide relevant information or instructions}. If you need further assistance, don’t hesitate to let us know. We’re here to help! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template to announce a special offer",
+        "input": "",
+        "output": "Hi {name}, We’ve got an exciting offer just for you! For a limited time, enjoy {offer details, e.g., 30% off} on {product/service}. Simply use the promo code {promo code} at checkout. This offer is available until {expiry date}, so don’t miss out! Click here to shop now: {link}. Happy shopping! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Follow-up email for a proposal submission",
+        "input": "",
+        "output": "Hi {name}, I hope you’re well. I just wanted to follow up on the proposal I sent over on {date} regarding {project/product}. I wanted to check in and see if you had any questions or needed additional information. I’m happy to discuss the details further and adjust the proposal to better meet your needs. Looking forward to hearing from you! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template for announcing a product update",
+        "input": "",
+        "output": "Hi {name}, We’ve made some exciting updates to {product name} that we think you’ll love! The latest version includes {list new features or improvements}. We’re constantly working to improve our products and provide you with the best experience possible. To get the update, simply {instructions}. We hope you enjoy the new features! Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Client check-in email template",
+        "input": "",
+        "output": "Hi {name}, I hope you’re doing well! It’s been a while since we last connected, and I wanted to check in to see how everything is going with {project/product/service}. If there’s anything we can do to assist or improve your experience, please let me know. We value your feedback and look forward to continuing our partnership. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Email template to inform about a service outage",
+        "input": "",
+        "output": "Dear {name}, We wanted to inform you that our {service/product} will be temporarily unavailable due to {reason for outage}. We’re working hard to resolve the issue and expect to have everything back online by {date/time}. We apologize for any inconvenience this may cause and appreciate your patience. If you have any questions, please reach out to us. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Referral request email template",
+        "input": "",
+        "output": "Hi {name}, I hope you’re doing great! If you’ve been happy with our {product/service}, we’d greatly appreciate it if you could refer us to others who might benefit. As a token of our appreciation, we’re offering {incentive for referral, e.g., a discount, a gift card} for every successful referral. Feel free to share your unique referral link: {link}. Thank you for your support! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Product launch email template",
+        "input": "",
+        "output": "Dear {name}, We’re thrilled to announce the launch of our new product, {product name}! After months of hard work, it’s finally here to help you {solve problem/achieve benefit}. To celebrate, we’re offering an exclusive discount of {percentage} off for a limited time. Don’t miss out—click here to shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "New feature announcement email",
+        "input": "",
+        "output": "Hi {name}, We’ve just added a brand-new feature to {product/service}—{feature name}! This new addition will {describe benefit}. We’d love for you to try it out and let us know your thoughts. Check it out now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Referral program email template",
+        "input": "",
+        "output": "Hi {name}, We’re excited to introduce our new referral program! If you love {product/service}, you can now earn {reward details} for each friend you refer. Just share your unique referral link: {link}, and start earning today. Thank you for your support! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Post-event follow-up email template",
+        "input": "",
+        "output": "Dear {name}, Thank you for attending {event name}. We hope you enjoyed it and found it valuable. We’d love to hear your feedback to help us improve future events. If you have a moment, please fill out this short survey: {link}. We look forward to hearing from you! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Customer success email template",
+        "input": "",
+        "output": "Hi {name}, We just wanted to check in and make sure everything is going well with your {product/service}. If you need any assistance or have any questions, please feel free to reach out. We’re here to help! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Account activation email template",
+        "input": "",
+        "output": "Hi {name}, Welcome to {company name}! We’re excited to have you on board. To get started, please activate your account by clicking the link below: {activation link}. If you need any help, don’t hesitate to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Product recommendation email template",
+        "input": "",
+        "output": "Hi {name}, Based on your interest in {previous purchase/product}, we thought you’d love our latest product, {recommended product}! It’s perfect for {specific need}. Check it out here: {link}. Let us know what you think! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Seasonal sale announcement email",
+        "input": "",
+        "output": "Hi {name}, The {season} sale is here! Enjoy up to {percentage} off on our best-selling products. This exclusive offer is available for a limited time, so don’t wait! Shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Customer feedback request email template",
+        "input": "",
+        "output": "Dear {name}, We hope you’re enjoying your {product/service}. We’d love to hear your thoughts! Your feedback helps us improve and deliver the best experience possible. Please take a moment to complete this short survey: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for your purchase email",
+        "input": "",
+        "output": "Hi {name}, Thank you for your recent purchase! We hope you’re enjoying your new {product}. If you have any questions or need assistance, don’t hesitate to contact us. We’re here to help! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Abandoned cart reminder email",
+        "input": "",
+        "output": "Hi {name}, It looks like you left some items in your cart. Don’t worry, they’re still waiting for you! Complete your purchase now and get {percentage} off your order. Click here to finalize your checkout: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Special offer email",
+        "input": "",
+        "output": "Dear {name}, We’re excited to offer you an exclusive deal! For a limited time, enjoy {discount amount} off your next purchase of {product/category}. Don’t miss out! Use code {promo code} at checkout. Shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Order shipped confirmation email",
+        "input": "",
+        "output": "Hi {name}, Great news! Your order of {product} has been shipped. You can track your order using the following link: {tracking link}. Thank you for shopping with us, and we hope to see you again soon! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Invoice email",
+        "input": "",
+        "output": "Dear {name}, Attached is the invoice for your recent purchase of {product/service}. If you have any questions regarding the invoice or the payment process, feel free to reach out. Thank you for your business! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Meeting confirmation email",
+        "input": "",
+        "output": "Hi {name}, This is a quick confirmation of our meeting scheduled for {date} at {time}. Looking forward to discussing {agenda or topic}. If you need to reschedule or have any questions, please let me know. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Job application follow-up email",
+        "input": "",
+        "output": "Dear {name}, I hope this email finds you well. I’m following up on my job application for the position of {job title}. I’m still very interested in the opportunity and would appreciate any updates on the hiring process. Looking forward to hearing from you. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Networking introduction email",
+        "input": "",
+        "output": "Hi {name}, I’d like to introduce you to {contact name}, who is a {role/position}. I believe you two could benefit from connecting about {specific topic}. Please feel free to reach out to each other directly. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Customer satisfaction survey request email",
+        "input": "",
+        "output": "Hi {name}, We’d love to hear your thoughts on your recent experience with {company/product/service}. Please take a moment to fill out this brief survey: {survey link}. Your feedback helps us improve and serve you better. Thank you for your time! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Discount code email",
+        "input": "",
+        "output": "Hi {name}, As a thank you for being a loyal customer, we’re giving you an exclusive discount code: {discount code}. Use this code on your next purchase to enjoy {discount amount}. Shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Seasonal greetings email",
+        "input": "",
+        "output": "Dear {name}, As {season/holiday} approaches, we wanted to take a moment to thank you for your continued support. Wishing you and your loved ones a {warm greeting}! We look forward to serving you in the upcoming year. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Service cancellation confirmation email",
+        "input": "",
+        "output": "Hi {name}, We’re sorry to see you go. This is a confirmation that your {service/product} has been successfully canceled. If there’s anything we can do to improve your experience or if you change your mind, don’t hesitate to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Welcome email template for a new user",
+        "input": "",
+        "output": "Hi {name}, Welcome to {platform name}! We’re excited to have you on board. Get started by exploring your account and enjoying {feature or benefit}. If you need any help, our support team is just a click away. Looking forward to your journey with us! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Special offer email",
+        "input": "",
+        "output": "Dear {name}, We’ve got an amazing offer just for you! Enjoy {discount amount}% off your next purchase of {product/category}. Use code {promo code} at checkout. Hurry, this offer is only available until {end date}! Shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Customer appreciation email",
+        "input": "",
+        "output": "Hi {name}, We just wanted to take a moment to thank you for being such a loyal customer. We truly appreciate your support and look forward to serving you again in the future. If there’s anything you need, don’t hesitate to let us know. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "New service announcement email",
+        "input": "",
+        "output": "Dear {name}, We’re excited to announce the launch of our new service, {service name}! It’s designed to {solve a problem/offer a benefit}. We invite you to try it out and experience the difference! Get started here: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Birthday greeting email",
+        "input": "",
+        "output": "Hi {name}, Happy Birthday from all of us at {Company Name}! We hope your day is filled with joy and celebration. As a birthday gift, enjoy {discount offer or gift}. Use code {birthday code} at checkout. Enjoy your special day! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Seasonal sale announcement email",
+        "input": "",
+        "output": "Dear {name}, The {season} sale is here! Get up to {percentage}% off on your favorite items. Hurry, the offer ends on {end date}. Don’t miss out—click here to shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Referral program email",
+        "input": "",
+        "output": "Hi {name}, We’re excited to introduce our new referral program! Invite your friends to {product/service} and earn {reward details} for every successful referral. Share your unique link: {link}. Thank you for helping us grow! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Confirmation of appointment email",
+        "input": "",
+        "output": "Hi {name}, This is a confirmation of your appointment with {company/doctor name} scheduled for {date} at {time}. If you need to reschedule or have any questions, feel free to reach out. Looking forward to seeing you soon! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Post-purchase email",
+        "input": "",
+        "output": "Hi {name}, Thank you for your recent purchase! We hope you’re enjoying your {product}. If you need assistance or have any questions, feel free to contact us. We look forward to serving you again! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Feedback request email",
+        "input": "",
+        "output": "Dear {name}, We’d love to hear your thoughts on your recent purchase of {product name}. Your feedback helps us improve and serve you better. Please take a moment to fill out our short survey: {survey link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Welcome email for a subscription service",
+        "input": "",
+        "output": "Hi {name}, Welcome to {service name}! We're thrilled to have you as part of our community. Get started with your subscription by exploring {feature/benefit}. If you have any questions, we're here to help! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Order shipped confirmation email",
+        "input": "",
+        "output": "Hi {name}, Great news! Your order of {product} has been shipped. You can track your package here: {tracking link}. Thank you for choosing {Company Name}. We hope you enjoy your purchase! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Service renewal reminder email",
+        "input": "",
+        "output": "Dear {name}, This is a friendly reminder that your {service} is due for renewal on {date}. To continue enjoying uninterrupted service, please renew before {renewal date}. If you need assistance, feel free to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Product recommendation email",
+        "input": "",
+        "output": "Hi {name}, Based on your recent purchase of {previous product}, we thought you’d love our new product, {recommended product}! It’s designed to {benefit/solve problem}. Check it out here: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Webinar invitation email",
+        "input": "",
+        "output": "Hi {name}, We’re excited to invite you to our upcoming webinar on {webinar topic}. The session will take place on {date} at {time}. Please RSVP by {RSVP date}. We look forward to seeing you there! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Product feedback request email",
+        "input": "",
+        "output": "Dear {name}, We hope you're enjoying your new {product name}. We’d love to hear your thoughts on how it’s working for you. Your feedback helps us improve our products and services. Please take a moment to complete our survey: {survey link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Limited time discount email",
+        "input": "",
+        "output": "Hi {name}, Don’t miss out! Enjoy {percentage}% off your next order of {product} for a limited time. Use code {promo code} at checkout. The offer ends on {end date}. Shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Event reminder email",
+        "input": "",
+        "output": "Hi {name}, Just a reminder about our upcoming event, {event name}, happening on {date} at {time}. We’re looking forward to seeing you there! If you need more information or have any questions, feel free to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Holiday greetings email",
+        "input": "",
+        "output": "Dear {name}, As the holiday season approaches, we want to thank you for your continued support. Wishing you and your loved ones a joyful and peaceful {holiday name}. We look forward to serving you in the coming year! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Referral thank you email",
+        "input": "",
+        "output": "Hi {name}, Thank you for referring {referral name} to {Company Name}! As a token of our appreciation, we’re giving you {reward details}. We truly value your support and look forward to continuing our relationship. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Subscription cancellation email",
+        "input": "",
+        "output": "Hi {name}, We're sorry to see you go. Your subscription to {service name} has been successfully canceled. If you ever change your mind, we'd be happy to welcome you back! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Meeting reminder email",
+        "input": "",
+        "output": "Hi {name}, This is a friendly reminder about our meeting on {date} at {time}. We’re excited to discuss {meeting topic}. If you need to reschedule, please let us know. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Follow-up email after meeting",
+        "input": "",
+        "output": "Hi {name}, It was great meeting with you earlier today. I enjoyed our discussion about {meeting topic} and look forward to moving forward with the next steps. Please feel free to reach out if you have any questions. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "New feature announcement email",
+        "input": "",
+        "output": "Hi {name}, We’re excited to announce a brand-new feature in {product name}—{feature name}! This new feature will {benefit or solve problem}. Check it out here: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Order Confirmation Email",
+        "input": "",
+        "output": "Hi {name}, Thank you for your order of {product name}! We’re processing it and will send you a shipping update shortly. If you have any questions or need assistance, don’t hesitate to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Follow-up after product launch",
+        "input": "",
+        "output": "Hi {name}, We wanted to check in after the launch of {product name}. We hope you’re enjoying it! If you have any feedback or questions, we’d love to hear from you. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Welcome email for newsletter subscription",
+        "input": "",
+        "output": "Hi {name}, Thanks for subscribing to our newsletter! You’ll receive updates on the latest {products/services/offers}. We’re excited to keep you informed. Feel free to explore our website: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Survey request email",
+        "input": "",
+        "output": "Hi {name}, We’d love to hear your thoughts on your recent experience with {product or service}. Could you please spare a few minutes to complete our survey? Your feedback helps us improve. {survey link} Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Upcoming product update announcement",
+        "input": "",
+        "output": "Dear {name}, We have exciting news! {product name} will be updated soon with some new features that will {benefit}. We can’t wait for you to experience them. Stay tuned for the official release date! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Gift card purchase confirmation email",
+        "input": "",
+        "output": "Hi {name}, Thank you for purchasing a gift card from {Company Name}. Your gift card code is {gift card code}. To redeem, simply enter the code at checkout. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Free trial reminder email",
+        "input": "",
+        "output": "Hi {name}, We hope you're enjoying your free trial of {service/product}. Just a reminder that your trial will end on {date}. If you’d like to continue using the service, please consider upgrading to a paid plan. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Flash sale announcement email",
+        "input": "",
+        "output": "Hi {name}, A flash sale is happening right now! Get {percentage}% off on {products/services}. Hurry, this offer ends in {time remaining}. Don’t miss out—shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Cart abandonment email",
+        "input": "",
+        "output": "Hi {name}, It looks like you left something behind in your cart. Don’t worry, your {product name} is still waiting for you! Complete your purchase here: {link}. If you have any questions, we’re here to help. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for your referral email",
+        "input": "",
+        "output": "Hi {name}, Thank you for referring {referral name} to {Company Name}. As a token of our appreciation, we’re giving you {reward details}. We look forward to continuing our partnership! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Account suspension notice email",
+        "input": "",
+        "output": "Dear {name}, We regret to inform you that your account has been temporarily suspended due to {reason}. Please contact our support team at {support link} for assistance. We hope to resolve this matter soon. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Service upgrade notification email",
+        "input": "",
+        "output": "Hi {name}, We’re excited to inform you that your {service} has been upgraded to the {new service level} plan. You’ll now have access to {new features/benefits}. If you have any questions, please let us know. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for your purchase email",
+        "input": "",
+        "output": "Hi {name}, Thank you for your recent purchase of {product name}. We hope you’re enjoying it! If you need any assistance or have questions, we’re here to help. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Product restock notification email",
+        "input": "",
+        "output": "Hi {name}, Great news! The {product name} is back in stock. Don’t miss out on the chance to grab yours before it sells out again. Order now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Product upgrade email",
+        "input": "",
+        "output": "Hi {name}, We’re excited to announce that {product name} has been upgraded with new features that will {benefit}. We’d love for you to try it out! Check it out here: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Seasonal promotion email",
+        "input": "",
+        "output": "Hi {name}, To celebrate {season/holiday}, we’re offering {discount percentage}% off on all products! This offer ends on {end date}, so be sure to grab your favorites before it’s gone. Shop now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Customer service response email",
+        "input": "",
+        "output": "Hi {name}, Thank you for reaching out. We’ve received your inquiry about {issue/product}, and our support team is currently reviewing it. We’ll get back to you within {time frame}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Event registration confirmation email",
+        "input": "",
+        "output": "Hi {name}, Thank you for registering for {event name}! We’re excited to have you join us on {event date}. You can find event details here: {event link}. Looking forward to seeing you there! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "New team member introduction email",
+        "input": "",
+        "output": "Dear {name}, We’re excited to introduce {new team member name} who has joined our team as {position}. They bring {skills or experience} and will be working on {project/task}. Please join us in welcoming {him/her/them}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Annual membership renewal reminder",
+        "input": "",
+        "output": "Hi {name}, It’s time to renew your {membership type} membership with {Company Name}. Renew by {renewal date} to continue enjoying {benefits}. Click here to renew now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for attending our event email",
+        "input": "",
+        "output": "Hi {name}, Thank you for attending {event name}. We hope you found it valuable and enjoyable! If you have any feedback or questions, please don’t hesitate to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Account upgrade promotion email",
+        "input": "",
+        "output": "Hi {name}, Upgrade your account to {new plan} today and enjoy {benefits/features}! For a limited time, we’re offering {discount percentage} off your first month. Don’t miss out—click here to upgrade: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Abandoned cart follow-up email",
+        "input": "",
+        "output": "Hi {name}, We noticed that you left some items in your cart. We’d love for you to complete your purchase of {product(s)}. Click here to finish your order: {link}. Let us know if you need assistance! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Customer loyalty reward email",
+        "input": "",
+        "output": "Hi {name}, As a thank you for being a loyal customer, we’re giving you {reward/discount offer}. Use code {code} at checkout. We truly appreciate your support! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "New partnership announcement email",
+        "input": "",
+        "output": "Dear {name}, We’re excited to announce our new partnership with {partner name}. This collaboration will bring {benefit or service improvement} to our customers. Stay tuned for more exciting updates! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Product discontinuation notice email",
+        "input": "",
+        "output": "Hi {name}, We regret to inform you that {product name} will no longer be available starting {discontinuation date}. We recommend {alternative product} as a great replacement. If you have any questions, we’re happy to assist. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for your review email",
+        "input": "",
+        "output": "Hi {name}, Thank you for your review of {product name}. We appreciate your feedback and are glad to hear about your experience. If you have any additional thoughts, feel free to share them with us! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Free consultation offer email",
+        "input": "",
+        "output": "Hi {name}, We’re offering a free consultation to help you {solve problem or achieve benefit}. Schedule yours today and get expert advice from our team. Click here to book: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Membership upgrade offer email",
+        "input": "",
+        "output": "Hi {name}, Ready to unlock more features? Upgrade to our {premium plan} and enjoy {additional benefits}. For a limited time, we’re offering {discount percentage} off. Upgrade now: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Special gift for loyal customers email",
+        "input": "",
+        "output": "Hi {name}, As a token of appreciation for your continued loyalty, we’ve sent you a special gift. We hope you enjoy it! Thank you for being a valued customer. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Exclusive VIP access email",
+        "input": "",
+        "output": "Hi {name}, We’re thrilled to offer you exclusive VIP access to our upcoming event/sale. As a VIP, you’ll get {special benefit}. Don’t miss out—click here for your VIP pass: {link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "School project deadline reminder",
+        "input": "",
+        "output": "Dear {name}, Just a reminder that the deadline for your {project/assignment} is coming up on {date}. Please make sure to submit it on time. If you need any assistance, feel free to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Job interview confirmation",
+        "input": "",
+        "output": "Dear {name}, We’re excited to confirm your interview for the {position} role at {Company Name}. Your interview is scheduled for {date} at {time}. Please let us know if you need any additional information. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Student enrollment confirmation",
+        "input": "",
+        "output": "Dear {name}, We’re pleased to inform you that your enrollment in the {course name} has been successfully processed. We look forward to seeing you in class starting on {start date}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Work meeting reminder",
+        "input": "",
+        "output": "Hi {name}, This is a reminder that our meeting about {topic/project} is scheduled for {date} at {time}. Please be prepared with any necessary documents or updates. Looking forward to our discussion. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Employee performance review feedback",
+        "input": "",
+        "output": "Dear {name}, Thank you for your hard work this past year. We have reviewed your performance, and we would like to schedule a meeting to discuss your growth and areas for improvement. Please let us know your availability. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Assignment submission confirmation",
+        "input": "",
+        "output": "Hi {name}, We’ve received your submission for {assignment/project}. Thank you for submitting it on time. We will review your work and get back to you with feedback soon. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Class cancellation notice",
+        "input": "",
+        "output": "Dear {name}, We regret to inform you that {class name} scheduled for {date} has been canceled due to {reason}. We apologize for any inconvenience and will notify you of a rescheduled date. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Work schedule change notification",
+        "input": "",
+        "output": "Hi {name}, Please be advised that there’s been a change in your work schedule. Your new schedule is as follows: {new schedule details}. If you have any questions, please feel free to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "New school semester start reminder",
+        "input": "",
+        "output": "Dear {name}, The new semester for {subject or course} is starting on {date}. Please ensure you have all the necessary materials ready. Looking forward to a successful semester ahead. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Team project collaboration invitation",
+        "input": "",
+        "output": "Hi {name}, We’re putting together a team for {project name} and would love for you to join. Your skills in {area of expertise} would be a great fit. Let me know if you’re interested! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Course registration reminder",
+        "input": "",
+        "output": "Dear {name}, This is a friendly reminder that course registration for {semester/term} closes on {date}. Be sure to finalize your selections before the deadline to avoid any issues. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "New employee welcome email",
+        "input": "",
+        "output": "Hi {name}, Welcome to {Company Name}! We’re excited to have you as part of our team. Your first day is scheduled for {date}. Please check your inbox for additional onboarding details. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Upcoming exam reminder",
+        "input": "",
+        "output": "Dear {name}, Just a reminder that your exam for {course name} is on {exam date}. Make sure to review your materials and arrive prepared. If you have any questions, feel free to reach out. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Internship opportunity announcement",
+        "input": "",
+        "output": "Hi {name}, We’re offering an exciting internship opportunity for {role/position} at {Company Name}. This is a great chance to gain hands-on experience in {field}. Apply by {application deadline}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Work project milestone update",
+        "input": "",
+        "output": "Dear {name}, We’ve reached a significant milestone in the {project name}. As of {date}, we’ve completed {percentage/achievement}. We’ll need to meet to discuss next steps. Let me know your availability. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "School club meeting reminder",
+        "input": "",
+        "output": "Dear {name}, This is a reminder that the next {club name} meeting will be held on {date} at {time}. We have some exciting activities planned, and we’d love to have you there! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Assignment extension request approval",
+        "input": "",
+        "output": "Hi {name}, After reviewing your request, we’ve approved an extension for the {assignment name}. You now have until {new deadline} to submit your work. Let us know if you need any further assistance. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Salary increase notification",
+        "input": "",
+        "output": "Dear {name}, We are pleased to inform you that your salary will be increased by {percentage} effective {date}. This increase reflects your outstanding performance and contribution to {Company Name}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Academic honors notification",
+        "input": "",
+        "output": "Dear {name}, Congratulations! You’ve been selected for {academic honor/award} for your exceptional performance in {course/subject}. We’re so proud of your achievement! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Work anniversary recognition",
+        "input": "",
+        "output": "Hi {name}, Happy work anniversary! We want to take a moment to recognize your hard work and dedication over the past {X years/months}. Your contributions have been invaluable to our team. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Professional development opportunity email",
+        "input": "",
+        "output": "Dear {name}, We’re excited to offer you the chance to participate in {training/workshop/conference}. This opportunity will help you enhance your skills in {specific area}. Let us know if you're interested! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Course syllabus distribution email",
+        "input": "",
+        "output": "Dear {name}, Please find attached the syllabus for {course name}. Make sure to review it and let me know if you have any questions before the semester begins. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Vacation request approval",
+        "input": "",
+        "output": "Hi {name}, Your vacation request for {dates} has been approved. We hope you have a relaxing and enjoyable time. Please let us know if there’s anything we can assist with before you leave. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Remote work setup instructions",
+        "input": "",
+        "output": "Dear {name}, We’ve arranged for you to work remotely starting {date}. Please follow the instructions below to set up your workspace: {instructions or links}. If you have any technical issues, feel free to contact IT. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "End-of-year performance feedback",
+        "input": "",
+            "output": "Dear {name}, As the year comes to a close, I would like to provide feedback on your performance. You’ve done an excellent job in {area}, but there are opportunities for improvement in {area}. Let’s schedule a meeting to discuss your growth. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Job offer acceptance confirmation",
+        "input": "",
+        "output": "Dear {name}, Congratulations and thank you for accepting our offer for the {position} role at {Company Name}. We’re excited to have you join us and look forward to your start date on {start date}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "School event invitation",
+        "input": "",
+        "output": "Dear {name}, We’re hosting a {event name} on {event date} and would love for you to join us. It’s a great opportunity to {highlight event benefits}. Please RSVP by {RSVP date}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Project completion notification",
+        "input": "",
+        "output": "Hi {name}, I’m pleased to inform you that {project name} has been successfully completed. Thank you for your hard work and dedication. Please let us know if you have any feedback or need further information. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Course grade announcement",
+        "input": "",
+        "output": "Dear {name}, Your final grade for {course name} has been posted. You received a grade of {grade}. If you have any questions or concerns, please don’t hesitate to contact me. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Internal promotion announcement",
+        "input": "",
+        "output": "Dear {name}, We’re excited to announce your promotion to {new position}. This is a well-deserved recognition of your hard work and contributions. Congratulations, and we look forward to your continued success! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "School holiday notice",
+        "input": "",
+        "output": "Dear {name}, Please be reminded that school will be closed for {holiday name} from {start date} to {end date}. We hope you enjoy the break and come back refreshed! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "End-of-term feedback request",
+        "input": "",
+        "output": "Dear {name}, As the term comes to a close, we’d love to hear your feedback on the course. Your input helps us improve for the future. Please take a moment to fill out the survey here: {survey link}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Team collaboration announcement",
+        "input": "",
+        "output": "Hi {name}, We’re excited to announce a new collaboration between {team/department names} for {project/initiative}. This partnership will help us {objective}. Looking forward to working together! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Workplace health and safety reminder",
+        "input": "",
+        "output": "Dear {name}, This is a reminder to follow all workplace health and safety protocols. Your well-being is important to us, so please be sure to {specific health/safety instructions}. Thank you for your attention to this matter. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Parent-teacher conference invitation",
+        "input": "",
+        "output": "Dear {name}, We would like to invite you to a parent-teacher conference to discuss your child’s progress in {subject}. The conference is scheduled for {date} at {time}. Please let us know if this time works for you. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Business partnership proposal email",
+        "input": "",
+        "output": "Dear {name}, I hope this message finds you well. I’m reaching out to explore a potential partnership between {your company name} and {their company name}. We believe that by working together, we can {benefit/goal}. I’d love to discuss this opportunity further. Looking forward to hearing from you. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Casual follow-up after meeting",
+        "input": "",
+        "output": "Hi {name}, It was great meeting you earlier today! I just wanted to follow up and see if you had any additional questions or thoughts after our discussion. Let me know if you'd like to set up another meeting. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Cover letter submission for job application",
+        "input": "",
+        "output": "Dear {Hiring Manager's Name}, I am writing to express my interest in the {position} at {Company Name}. With my {experience/skills}, I believe I would be a valuable asset to your team. Attached is my resume for your review. I look forward to the opportunity to discuss how I can contribute to your team. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Meeting scheduling request",
+        "input": "",
+        "output": "Hi {name}, I hope you’re doing well. I’d love to schedule a meeting to discuss {topic/idea}. Are you available on {date/time}? Let me know if that works for you or if there's another time that’s better. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Thank you for the job interview email",
+        "input": "",
+        "output": "Dear {name}, I wanted to take a moment to thank you for the opportunity to interview for the {position} role at {Company Name}. It was a pleasure discussing the role and learning more about your team. I look forward to the possibility of working together. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Project collaboration suggestion",
+        "input": "",
+        "output": "Hi {name}, I was thinking that it would be beneficial for both of us if we could collaborate on {project/initiative}. I believe that with your expertise in {area}, and my experience in {area}, we could make great progress. Let me know your thoughts. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Job offer email",
+        "input": "",
+        "output": "Dear {name}, We’re pleased to offer you the position of {position} at {Company Name}. We are excited about the skills and experience you will bring to the team. Please find the offer letter attached with further details. We look forward to having you join us! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Casual thank you email after networking event",
+        "input": "",
+        "output": "Hi {name}, It was a pleasure meeting you at the {event name} last {day of the week}. I really enjoyed our conversation about {topic discussed} and would love to stay in touch. Let me know if you’re ever interested in meeting for coffee! Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Follow-up email after no response",
+        "input": "",
+        "output": "Hi {name}, I hope you’re doing well. I just wanted to follow up on my previous email regarding {subject}. If you have any questions or would like to discuss further, I’m happy to set up a call. Looking forward to hearing from you. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Business proposal submission email",
+        "input": "",
+        "output": "Dear {name}, Attached is the proposal for {project/partnership} that we discussed. I’ve outlined the key details and next steps, and I’m available to answer any questions you may have. I look forward to your feedback. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Apology for delayed response",
+        "input": "",
+        "output": "Dear {name}, I apologize for the delay in responding to your message. I’ve been {reason for delay}, but I wanted to make sure to get back to you. Please let me know how I can assist you with {specific request or subject}. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Cover letter for internship application",
+        "input": "",
+        "output": "Dear {Hiring Manager's Name}, I am very excited to apply for the {position} internship at {Company Name}. With my background in {relevant coursework, skills}, I am eager to gain hands-on experience and contribute to your team. Attached is my resume for your consideration. Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Request for testimonial",
+        "input": "",
+        "output": "Hi {name}, I hope you’re doing well. I’m reaching out to ask if you would be willing to provide a testimonial about your experience with {product/service}. Your feedback would be greatly appreciated! Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Email to reconnect with a former colleague",
+        "input": "",
+        "output": "Hi {name}, I hope everything is going well with you! It’s been a while since we last connected, and I wanted to check in and see how you’ve been. Let me know if you’re free for a quick chat sometime. Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Job rejection email",
+        "input": "",
+        "output": "Dear {name}, Thank you for interviewing with us for the {position} role at {Company Name}. After careful consideration, we’ve decided to move forward with another candidate. We appreciate the time and effort you put into your application and interview. Best wishes for your job search. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Casual event invitation email",
+        "input": "",
+        "output": "Hi {name}, I’m hosting a small {event type} this {day of the week} and would love for you to join us. We’ll be meeting at {location} around {time}. It should be a fun time! Let me know if you can make it. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Request for a meeting agenda",
+        "input": "",
+        "output": "Hi {name}, I’m looking forward to our meeting on {date}. Could you please share an agenda or the main topics you’d like to cover so I can prepare accordingly? Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Request for collaboration on article or content",
+        "input": "",
+        "output": "Dear {name}, I’ve been following your work on {specific subject} and was wondering if you’d be interested in collaborating on an article about {topic}. I think our combined expertise would result in a great piece. Let me know if this interests you. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Casual feedback request email",
+        "input": "",
+        "output": "Hi {name}, I’d love to get your feedback on {subject}. Your insights would be really helpful as I look to improve {product/service/idea}. Please let me know your thoughts when you have a moment. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Job offer negotiation email",
+        "input": "",
+        "output": "Dear {name}, Thank you so much for offering me the {position} role at {Company Name}. After reviewing the offer, I’d like to discuss the compensation package. Would it be possible to schedule a call to go over the details? Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Casual congratulations email",
+        "input": "",
+        "output": "Hi {name}, Congratulations on {achievement}! I know how hard you’ve worked to get here, and I’m so happy to see your success. Wishing you all the best moving forward! Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Work-from-home request",
+        "input": "",
+        "output": "Hi {name}, I’d like to request approval to work from home on {date(s)}. I will ensure all of my tasks are completed as expected. Please let me know if this is possible. Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Casual thanks for a job well done",
+        "input": "",
+        "output": "Hi {name}, Just wanted to drop you a quick note to say thanks for {task/achievement}. Your hard work and dedication really made a difference, and I truly appreciate it. Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Cold email to introduce yourself and your business",
+        "input": "",
+        "output": "Hi {name}, My name is {Your Name}, and I’m the {position} at {Company Name}. We specialize in {product/service}, and I believe our solutions could be valuable to {company name}. Would you be open to a brief conversation about how we might work together? Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Request for proposal (RFP) submission",
+        "input": "",
+        "output": "Dear {name}, We’re excited to submit our proposal for {project name}. Please find the proposal document attached for your review. We believe our approach will {specific benefit or goal}. We look forward to your feedback. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Internal memo announcement",
+        "input": "",
+        "output": "Dear Team, We’re excited to announce that {announcement details}. Please be sure to {specific action required}. If you have any questions, feel free to reach out. Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Job application follow-up email",
+        "input": "",
+        "output": "Dear {Hiring Manager's Name}, I wanted to follow up on my application for the {position} role at {Company Name}. I remain very interested in the position and would appreciate any update on the hiring process. Best regards, {Your Name}"
+    },
+    {
+        "instruction": "Personalized customer appreciation email",
+        "input": "",
+        "output": "Dear {name}, I wanted to take a moment to personally thank you for your continued support of {Company Name}. We value your business and look forward to serving you in the future. If there’s anything we can assist you with, don’t hesitate to reach out. Best regards, {Your Name}"
+     },
+     {
+        "instruction": "Employee onboarding welcome email",
+        "input": "",
+        "output": "Dear {name}, Welcome to the team at {Company Name}! We’re thrilled to have you join us as a {position}. Your experience and skills will be invaluable to our team. Please don’t hesitate to reach out if you have any questions as you settle in. Best regards, {Your Name}"
+    }
+]
